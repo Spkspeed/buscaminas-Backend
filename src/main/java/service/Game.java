@@ -1,7 +1,7 @@
 package service;
 
 public class Game {
-    public void saveCharacter(){
+    public void saveCharacter(CreatingNewCharacter player){
 
     }
 }
