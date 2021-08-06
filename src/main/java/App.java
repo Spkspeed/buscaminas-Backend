@@ -21,6 +21,6 @@ public class App {
         }
 
 
-        game.saveCharacter(spkspeed);
+        game.saveCharacter(spkspeed, "spkspeed");
     }
 }
